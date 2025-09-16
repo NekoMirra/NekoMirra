@@ -1,7 +1,3 @@
-<!-- 🎨 Header Section with Gradient Background -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NekoMirra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%E4%BD%A0%E4%BD%93%E9%AA%8C%E4%B8%96%E7%95%8C%E7%9A%84%E6%B7%B1%E5%BA%A6%EF%BC%8C%E6%88%91%E6%84%9F%E5%8F%97%E4%B8%96%E7%95%8C%E7%9A%84%E5%B9%BF%E5%BA%A6&descSize=16&descAlignY=51&descAlign=50"/>
-</div>
 
 
 
@@ -52,37 +48,34 @@
     <tr>
       <td align="center" width="25%">
         <h3>📝 Languages</h3>
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,r" alt="Programming Languages"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Programming Languages"/>
       </td>
       <td align="center" width="25%">
         <h3>🌐 Frontend</h3>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" alt="Frontend"/>
       </td>
-      <td align="center" width="25%">
-        <h3>⚙️ Backend</h3>
-        <img src="https://skillicons.dev/icons?i=nodejs,java,php,go,django" alt="Backend"/>
-      </td>
+    
       <td align="center" width="25%">
         <h3>🛠️ Tools</h3>
-        <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,docker,kubernetes,arduino,vim" alt="Tools"/>
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,arduino,vim" alt="Tools"/>
       </td>
     </tr>
     <tr>
       <td align="center" width="25%">
         <h3>💻 OS</h3>
-        <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch" alt="Operating Systems"/>
+        <img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating Systems"/>
       </td>
       <td align="center" width="25%">
         <h3>☁️ Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=cloudflare,aws,vercel,azure,firebase,mongodb" alt="Cloud"/>
+        <img src="https://skillicons.dev/icons?i=cloudflare,aws,vercel,azure" alt="Cloud"/>
       </td>
       <td align="center" width="25%">
         <h3>🎨 Creative</h3>
-        <img src="https://skillicons.dev/icons?i=unity,blender,photoshop,aftereffects,premiere,notion" alt="Creative"/>
+        <img src="https://skillicons.dev/icons?i=blender,photoshop,aftereffects,notion" alt="Creative"/>
       </td>
       <td align="center" width="25%">
         <h3>🔍 Security</h3>
-        <img src="https://skillicons.dev/icons?i=kali,linux,bash,powershell,vim" alt="Security Tools"/>
+        <img src="https://skillicons.dev/icons?i=kali" alt="Security Tools"/>
 
   </table>
 </div>
@@ -175,8 +168,6 @@
       <td align="left" width="60%">
         <h3>🎓 面向大学生群体的开源学习/生活指南</h3>
         <p>🌐 <strong>Website:</strong> <a href="https://ac-wiki.org">ac-wiki.org</a></p>
-        <p>⭐ <strong>617 Stars</strong> | 🍴 <strong>39 Forks</strong> | 👥 <strong>23 Followers</strong></p>
-        <p>📅 <strong>Created:</strong> October 19, 2024</p>
         <br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>

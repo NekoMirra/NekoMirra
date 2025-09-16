@@ -1,14 +1,10 @@
-
-
-
-<!-- 🎭 About Me Section -->
 <div align="center">
   <table border="0" cellpadding="20" cellspacing="0" width="100%">
     <tr>
       <td align="center" width="40%">
         <img src="https://github.com/NekoMirra.png" width="200" style="border-radius: 50%; border: 4px solid #2F81F7;"/>
         <br><br>
-        <!-- 🔗 Social Links (Icons Only) -->
+        <!-- 🔗 Social Links -->
         <a href="https://github.com/NekoMirra">
           <img src="https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
         </a>
@@ -31,15 +27,10 @@
         <p>🎯 <strong>Full-Stack Developer</strong> & Open Source Enthusiast</p>
         <p>💭 <em>"你体验世界的深度，我感受世界的广度"</em></p>
         <p>🎉 <strong>Mirra欢迎您~</strong></p>
-
-
-
-
-
   </table>
 </div>
 
-<!-- 💻 Tech Stack with Animated Icons -->
+
 <div align="center">
   <h2>💻 Tech Stack</h2>
 </div>
@@ -54,7 +45,6 @@
         <h3>🌐 Frontend</h3>
         <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" alt="Frontend"/>
       </td>
-    
       <td align="center" width="25%">
         <h3>🛠️ Tools</h3>
         <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,arduino,vim" alt="Tools"/>
@@ -76,7 +66,8 @@
       <td align="center" width="25%">
         <h3>🔍 Security</h3>
         <img src="https://skillicons.dev/icons?i=kali" alt="Security Tools"/>
-
+      </td>
+    </tr>
   </table>
 </div>
 <div align="center">

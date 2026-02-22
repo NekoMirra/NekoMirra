@@ -1,186 +1,30 @@
-<div align="center">
-  <table border="0" cellpadding="20" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" width="40%">
-        <img src="https://github.com/NekoMirra.png" width="200" style="border-radius: 50%; border: 4px solid #2F81F7;"/>
-        <br><br>
-        <!-- 🔗 Social Links -->
-        <a href="https://github.com/NekoMirra">
-          <img src="https://img.shields.io/badge/-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-        <a href="https://x.com/NekoMirra">
-          <img src="https://img.shields.io/badge/-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter"/>
-        </a>
-        <a href="https://t.me/NekoMirra">
-          <img src="https://img.shields.io/badge/-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/>
-        </a>
-        <br>
-        <a href="https://mirradev.eu.org">
-          <img src="https://img.shields.io/badge/-FF6B35?style=flat&logo=firefox&logoColor=white" alt="Website"/>
-        </a>
-        <a href="mailto:NekoMirra@outlook.com">
-          <img src="https://img.shields.io/badge/-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-        </a>
-      </td>
-      <td align="left" width="60%">
-        <h2>🚀 About NekoMirra</h2>
-        <p>🎯 <strong>Full-Stack Developer</strong> & Open Source Enthusiast</p>
-        <p>💭 <em>"你体验世界的深度，我感受世界的广度"</em></p>
-        <p>🎉 <strong>Mirra欢迎您~</strong></p>
-  </table>
-</div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is NekoMirra
+==================================================================================================================================
 
+日月终有尽头，星尘在永恒之外
+--------------
 
-<div align="center">
-  <h2>💻 Tech Stack</h2>
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <h3>📝 Languages</h3>
-        <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Programming Languages"/>
-      </td>
-      <td align="center" width="25%">
-        <h3>🌐 Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" alt="Frontend"/>
-      </td>
-      <td align="center" width="25%">
-        <h3>🛠️ Tools</h3>
-        <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,arduino,vim" alt="Tools"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%">
-        <h3>💻 OS</h3>
-        <img src="https://skillicons.dev/icons?i=linux,windows" alt="Operating Systems"/>
-      </td>
-      <td align="center" width="25%">
-        <h3>☁️ Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=cloudflare,aws,vercel,azure" alt="Cloud"/>
-      </td>
-      <td align="center" width="25%">
-        <h3>🎨 Creative</h3>
-        <img src="https://skillicons.dev/icons?i=blender,photoshop,aftereffects,notion" alt="Creative"/>
-      </td>
-      <td align="center" width="25%">
-        <h3>🔍 Security</h3>
-        <img src="https://skillicons.dev/icons?i=kali" alt="Security Tools"/>
-      </td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://giffiles.alphacoders.com/220/220290.gif" width="120" alt="Hatsune Miku Dancing"/>
-        <br>
-      </td>
-      <td align="center" width="75%">
-        <img src="https://img.shields.io/badge/MikuMikuDance-FF69B4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white&labelColor=1a1b27" alt="MMD"/>
-        <img src="https://img.shields.io/badge/Vocaloid-00D4AA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSQ4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white&labelColor=1a1b27" alt="Vocaloid"/>
-    </tr>
-  </table>
-</div>
+* 🌍  I'm based in 中国
+* 🖥️  See my portfolio at [NekoMirra](http://mirradev.eu.org)
+* ✉️  You can contact me at [NekoMirra@outlook.com](mailto:NekoMirra@outlook.com)
 
-<!-- 🔍 Reverse Engineering & Security Tools -->
-<div align="center">
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
+</p>
 
-<!-- 🏆 Personal Achievement Badges -->
-<div align="center">
-  <h2>🏆 Personal Achievements</h2>
-  <h3>📊 GitHub Overview & Achievements</h3>
+### Socials
 
-  <!-- Core Achievements -->
+<p align="left"> <a href="https://www.github.com/NekoMirra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/NekoMirra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.youtube.com/@NekoMirra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/NekoMirra" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/NekoMirra"><img src="https://github-readme-stats.vercel.app/api?username=NekoMirra&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NekoMirra's GitHub stats" /></a>
 
-  <!-- Activity Metrics -->
-  <p>
-    <img src="https://img.shields.io/badge/📊_Contributions-298-7C3AED?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Contributions"/>
-    <img src="https://img.shields.io/badge/📚_Repositories-45-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Repositories"/>
-  </p>
+<a href="http://www.github.com/NekoMirra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoMirra&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-  <!-- Community Impact -->
-  <p>
-    <img src="https://img.shields.io/badge/📅_Experience-5_Years-FF6B35?style=for-the-badge&logo=calendar&logoColor=white&labelColor=1a1b27" alt="Experience"/>
-    <img src="https://komarev.com/ghpvc/?username=NekoMirra&style=for-the-badge&color=7C3AED&label=Profile+Views&labelColor=1a1b27" alt="Profile Views"/>
-  </p>
-</div>
+<a href="https://github.com/NekoMirra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoMirra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!-- 📊 GitHub Statistics Section -->
-<div align="center">
-  <h2>📊 GitHub Analytics</h2>
-</div>
+<b>Top Repositories</b>
 
-<!-- 🔥 GitHub Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=NekoMirra&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=2F81F7&fire=FF6B35&currStreakLabel=2F81F7&sideLabels=2F81F7&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak Stats" width="500"/>
-</div>
-
-<br>
-
-<!-- 📈 Advanced GitHub Metrics -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=NekoMirra&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&custom_title=📊+NekoMirra's+GitHub+Stats" alt="GitHub Stats" width="420"/>
-      </td>
-      <td align="center">
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoMirra&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=NekoMirra's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/NekoMirra/NekoMirra/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark"/>
-
-</div>
-
-<!-- 🏢 Featured Organization & Projects -->
-<div align="center">
-  <h2>🏢 Featured Organization</h2>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="40%">
-        <img src="https://github.com/Ac-Wiki.png" width="120" style="border-radius: 20%; border: 3px solid #2F81F7;"/>
-        <h3><a href="https://github.com/Ac-Wiki">Ac-Wiki</a></h3>
-        <p><strong>高等教育学社基础开源建设工程</strong></p>
-      </td>
-      <td align="left" width="60%">
-        <h3>🎓 面向大学生群体的开源学习/生活指南</h3>
-        <p>🌐 <strong>Website:</strong> <a href="https://ac-wiki.org">ac-wiki.org</a></p>
-        <br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MkDocs-526CFE?style=for-the-badge&logo=materialformkdocs&logoColor=white"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-<!-- 🎨 Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made_with-❤️-FF6B9D?style=for-the-badge&logo=heart&logoColor=white&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/Powered_by-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27"/>
-  <img src="https://img.shields.io/badge/Open_Source-💚-00D4AA?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1b27"/>
-  <br><br>
-  <p><strong>⭐️ From <a href="https://github.com/NekoMirra">NekoMirra</a> with 💙</strong></p>
-  <p><em>Last updated: 2025 | Thanks for visiting! 🚀</em></p>
-</div>
+<div width="100%" align="center"><a href="https://github.com/NekoMirra/ACWIKI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=NekoMirra&repo=ACWIKI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
